@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+streamlit
+Pillow
+matplotlib
+scikit-learn
